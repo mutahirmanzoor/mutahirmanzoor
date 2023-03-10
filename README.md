@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mutahirmanzoor
-- 👀 I’m interested in software development and machine learning
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in developing backend Services
+- 🌱 I am Software Engineer
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
