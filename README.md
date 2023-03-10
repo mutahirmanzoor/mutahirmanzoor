@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mutahirmanzoor
 - 👀 I’m interested in developing backend Services
-- 🌱 I am Software Engineer
+- 🌱 
 - 💞️ 
 - 📫 How to reach me ...
 
