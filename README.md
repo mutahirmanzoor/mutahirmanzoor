@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mutahirmanzoor
-- 👀 I’m interested in developing backend Services
-- 🌱 
-- 💞️ 
+- 👋 Backend Microservices Enthusiast
+- 👀 Welcome to my GitHub profile! I'm passionate about building robust and scalable backend microservices to power modern applications.
 - 📫 How to reach me ...
 
 <!---
